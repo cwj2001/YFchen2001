@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YFchen2001&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YFchen2001&theme=dark&layout=compact)
+
+
+
 <!--
 **YFchen2001/YFchen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
