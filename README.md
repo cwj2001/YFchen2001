@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🧑算法爱好者，在校学校😁
+
+📬邮箱：2965241316@qq.com
+
+📜blog:https://yfchen2001.github.io/
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YFchen2001&show_icons=true&theme=dark&count_private=true)
 
